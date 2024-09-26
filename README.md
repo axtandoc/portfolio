@@ -1,4 +1,4 @@
-# Data Scientist
+# Spatial Data Scientist
 
 #### Technical Skills: Python, SQL, ArcGIS Pro, MATLAB
 
