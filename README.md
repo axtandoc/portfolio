@@ -1,6 +1,6 @@
 # Spatial Data Scientist
 
-##About Me
+## About Me
 I am a graduate of the University of California, Santa Barbara, with a Bachelor of Science in Physical Geography, emphasizing Ocean Science. My academic background includes spatial data analysis, spatial statistics, imagery analysis, and environmental analysis.
 
 Proficient in ArcGIS, Python, MATLAB, and SQL, I am passionate about leveraging my skills in data acquisition, manipulation, and analysis to solve complex problems. I am actively seeking a career in spatial data analysis or data analysis, where I can apply my technical expertise and contribute to impactful projects.
